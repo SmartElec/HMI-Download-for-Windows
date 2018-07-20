@@ -1,0 +1,38 @@
+C:\Users\test\Desktop\UART_Demo_winform\UART_Demo\obj\Debug\UART_Demo.exe
+C:\Users\test\Desktop\UART_Demo_winform\UART_Demo\obj\Debug\UART_Demo.pdb
+C:\Users\test\Desktop\UART_Demo_winform\UART_Demo\bin\Debug\UART_Demo.exe
+C:\Users\test\Desktop\UART_Demo_winform\UART_Demo\bin\Debug\UART_Demo.pdb
+C:\Users\test\Desktop\UART_Demo_winform\UART_Demo\obj\Debug\UART_Demo.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\UART_Demo_winform\UART_Demo\obj\Debug\UART_Demo.Form1.resources
+C:\Users\test\Desktop\UART_Demo_winform\UART_Demo\obj\Debug\UART_Demo.Properties.Resources.resources
+C:\Users\test\Desktop\UART_Demo_winform\UART_Demo\obj\Debug\UART_Demo.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\UART_Demo_winform\UART_Demo\bin\Debug\XY.WINUI.ControlEx.InvokeEx.dll
+E:\##项目文档##\vs2013 c#\串口发送文件\UART_Demo\obj\Debug\UART_Demo.exe
+E:\##项目文档##\vs2013 c#\串口发送文件\UART_Demo\obj\Debug\UART_Demo.pdb
+E:\##项目文档##\vs2013 c#\串口发送文件\UART_Demo\obj\Debug\UART_Demo.Form1.resources
+E:\##项目文档##\vs2013 c#\串口发送文件\UART_Demo\obj\Debug\UART_Demo.Properties.Resources.resources
+E:\##项目文档##\vs2013 c#\串口发送文件\UART_Demo\obj\Debug\UART_Demo.csproj.GenerateResource.Cache
+E:\##项目文档##\vs2013 c#\串口发送文件\UART_Demo\bin\Debug\UART_Demo.exe
+E:\##项目文档##\vs2013 c#\串口发送文件\UART_Demo\bin\Debug\UART_Demo.pdb
+E:\##项目文档##\vs2013 c#\串口发送文件\UART_Demo\bin\Debug\UART_Demo.exe.config
+E:\##项目文档##\vs2013 c#\串口发送文件\UART_Demo\obj\Debug\UART_Demo.csprojResolveAssemblyReference.cache
+C:\Users\AMCNC03\Desktop\UART_DEMO\UART_Demo\bin\Debug\UART_Demo.exe.config
+C:\Users\AMCNC03\Desktop\UART_DEMO\UART_Demo\obj\Debug\UART_Demo.exe
+C:\Users\AMCNC03\Desktop\UART_DEMO\UART_Demo\obj\Debug\UART_Demo.pdb
+C:\Users\AMCNC03\Desktop\UART_DEMO\UART_Demo\bin\Debug\UART_Demo.exe
+C:\Users\AMCNC03\Desktop\UART_DEMO\UART_Demo\bin\Debug\UART_Demo.pdb
+C:\Users\AMCNC03\Desktop\UART_DEMO\UART_Demo\obj\Debug\UART_Demo.Form1.resources
+C:\Users\AMCNC03\Desktop\UART_DEMO\UART_Demo\obj\Debug\UART_Demo.Properties.Resources.resources
+C:\Users\AMCNC03\Desktop\UART_DEMO\UART_Demo\obj\Debug\UART_Demo.csproj.GenerateResource.Cache
+C:\Users\AMCNC03\Desktop\UART_DEMO\UART_Demo\bin\Debug\zh-Hans\UART_Demo.resources.dll
+C:\Users\AMCNC03\Desktop\UART_DEMO\UART_Demo\obj\Debug\UART_Demo.Form1.zh-Hans.resources
+C:\Users\AMCNC03\Desktop\UART_DEMO\UART_Demo\obj\Debug\zh-Hans\UART_Demo.resources.dll
+C:\Users\test\Desktop\UART_DEMO\UART_Demo\bin\Debug\UART_Demo.exe.config
+C:\Users\test\Desktop\UART_DEMO\UART_Demo\bin\Debug\UART_Demo.exe
+C:\Users\test\Desktop\UART_DEMO\UART_Demo\bin\Debug\UART_Demo.pdb
+C:\Users\test\Desktop\UART_DEMO\UART_Demo\obj\Debug\UART_Demo.Form1.resources
+C:\Users\test\Desktop\UART_DEMO\UART_Demo\obj\Debug\UART_Demo.Properties.Resources.resources
+C:\Users\test\Desktop\UART_DEMO\UART_Demo\obj\Debug\UART_Demo.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\UART_DEMO\UART_Demo\obj\Debug\UART_Demo.exe
+C:\Users\test\Desktop\UART_DEMO\UART_Demo\obj\Debug\UART_Demo.pdb
+C:\Users\test\Desktop\UART_DEMO\UART_Demo\obj\Debug\UART_Demo.csprojResolveAssemblyReference.cache

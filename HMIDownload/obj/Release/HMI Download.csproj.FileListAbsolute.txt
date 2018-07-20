@@ -1,0 +1,30 @@
+C:\Users\test\Desktop\UART_Demo c#\UART_Demo\bin\Release\UART_Demo.exe.config
+C:\Users\test\Desktop\UART_Demo c#\UART_Demo\bin\Release\UART_Demo.exe
+C:\Users\test\Desktop\UART_Demo c#\UART_Demo\bin\Release\UART_Demo.pdb
+C:\Users\test\Desktop\UART_Demo c#\UART_Demo\obj\Release\HMI Download.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\UART_Demo c#\UART_Demo\obj\Release\UART_Demo.Form1.resources
+C:\Users\test\Desktop\UART_Demo c#\UART_Demo\obj\Release\UART_Demo.frmAboutBox.resources
+C:\Users\test\Desktop\UART_Demo c#\UART_Demo\obj\Release\UART_Demo.Properties.Resources.resources
+C:\Users\test\Desktop\UART_Demo c#\UART_Demo\obj\Release\HMI Download.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\UART_Demo c#\UART_Demo\obj\Release\UART_Demo.exe
+C:\Users\test\Desktop\UART_Demo c#\UART_Demo\obj\Release\UART_Demo.pdb
+C:\Users\test\Desktop\HMI Download c#\UART_Demo\obj\Release\HMI Download.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\HMI Download c#\UART_Demo\obj\Release\UART_Demo.Form1.resources
+C:\Users\test\Desktop\HMI Download c#\UART_Demo\obj\Release\UART_Demo.frmAboutBox.resources
+C:\Users\test\Desktop\HMI Download c#\UART_Demo\obj\Release\HMI Download.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\HMI Download c#\UART_Demo\bin\Release\HMI DownLoader.exe.config
+C:\Users\test\Desktop\HMI Download c#\UART_Demo\bin\Release\HMI DownLoader.exe
+C:\Users\test\Desktop\HMI Download c#\UART_Demo\bin\Release\HMI DownLoader.pdb
+C:\Users\test\Desktop\HMI Download c#\UART_Demo\obj\Release\HMI_DownLoad.Properties.Resources.resources
+C:\Users\test\Desktop\HMI Download c#\UART_Demo\obj\Release\HMI DownLoader.exe
+C:\Users\test\Desktop\HMI Download c#\UART_Demo\obj\Release\HMI DownLoader.pdb
+E:\DOCUMENT\project\上位机C# 2013\HMI Download c#\UART_Demo\bin\Release\HMI DownLoader.exe.config
+E:\DOCUMENT\project\上位机C# 2013\HMI Download c#\UART_Demo\obj\Release\HMI DownLoader.exe
+E:\DOCUMENT\project\上位机C# 2013\HMI Download c#\UART_Demo\obj\Release\HMI DownLoader.pdb
+E:\DOCUMENT\project\上位机C# 2013\HMI Download c#\UART_Demo\bin\Release\HMI DownLoader.exe
+E:\DOCUMENT\project\上位机C# 2013\HMI Download c#\UART_Demo\bin\Release\HMI DownLoader.pdb
+E:\DOCUMENT\project\上位机C# 2013\HMI Download c#\UART_Demo\obj\Release\HMI Download.csprojResolveAssemblyReference.cache
+E:\DOCUMENT\project\上位机C# 2013\HMI Download c#\UART_Demo\obj\Release\UART_Demo.Form1.resources
+E:\DOCUMENT\project\上位机C# 2013\HMI Download c#\UART_Demo\obj\Release\UART_Demo.frmAboutBox.resources
+E:\DOCUMENT\project\上位机C# 2013\HMI Download c#\UART_Demo\obj\Release\HMI_DownLoad.Properties.Resources.resources
+E:\DOCUMENT\project\上位机C# 2013\HMI Download c#\UART_Demo\obj\Release\HMI Download.csproj.GenerateResource.Cache
